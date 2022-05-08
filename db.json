@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Will start attending Gym",
+      "day": "14th May",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Start Reading quran regularly",
+      "day": "Just now",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
